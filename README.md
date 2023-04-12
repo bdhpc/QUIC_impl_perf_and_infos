@@ -36,6 +36,7 @@ QUIC dokumentumok: [QUIC (quic) (ietf.org)](https://datatracker.ietf.org/wg/quic
 - [4] az iperf -hez hasonlítja a QUIC teljesítményét, és ezt is használta: ns-3 Network Simulator, pyshark (python tshark)
 
 ![quic_events_qlog.png](quic_events_qlog.png)
+(forrás: [3])
 
 ## QUIC implementáció választási kritériumok [1] szerint
 
