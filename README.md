@@ -92,7 +92,7 @@ QUIC dokumentumok: [QUIC (quic) (ietf.org)](https://datatracker.ietf.org/wg/quic
 
 Egyes implementációk biztosítanak Dockerfile-t vagy docker image-t, ha van, akkor inkább ezt érdemes használni, mint natívan telepíteni.
 
-## QUIC implementáció tesztek kiértékelési teljesítmény metrikái
+## QUIC implementáció teljesítmény metrikák
 
 [1] szerint:
 
