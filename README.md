@@ -14,7 +14,7 @@ Alapoldal: [QUIC Working Group (quicwg.org)](https://quicwg.org/)
   - A lista mellett egyéb hasznos infók is vannak.
   - Nem rég frissítették (2023. ápr. 6.)
   - Saját implementációt hozzáadhatunk.
--  QUIC interoperability runner (QIR): [QUIC Interop Runner (seemann.io)](https://interop.seemann.io/)
+- QUIC interoperability runner (QIR): [QUIC Interop Runner (seemann.io)](https://interop.seemann.io/)
   - A résztvevő implementációkhoz forrás linkeket is biztosít.
   - Automated, continuous interop testing
   - Saját implementációt hozzáadhatunk.
