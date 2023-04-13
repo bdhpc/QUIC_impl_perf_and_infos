@@ -50,7 +50,7 @@ QUIC dokumentumok: [QUIC (quic) (ietf.org)](https://datatracker.ietf.org/wg/quic
 
 ## QUIC implementációkról táblázat [1]
 
-(csatolva csv és xlsx formátumokban)
+(ebben a repóban szintén megvan quic_implementation_table.csv és quic_implementation_table.xlsx fájlokban)
 
 | Implemeation              | Language                  | Supported Version                       | H3   | QUIC V1 | Client H3 test no error |
 | ------------------------- | ------------------------- | --------------------------------------- | ---- | ------- | ----------------------- |
