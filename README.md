@@ -1,5 +1,8 @@
 # QUIC implementációk teljesítménye és tervezése
 
+Ez egy nagyon friss cikk (Date Added to IEEE Xplore: 17 March 2023), jó lenne valahogy hozzáférni:
+[Performance Benchmarking of the QUIC Transport Protocol](https://ieeexplore.ieee.org/document/10060785)
+
 ## QUIC implementációk listája és tudnivalók saját implementációhoz
 
 Alapoldal: [QUIC Working Group (quicwg.org)](https://quicwg.org/)
