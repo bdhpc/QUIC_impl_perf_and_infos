@@ -157,7 +157,7 @@ Egyes implementációk biztosítanak Dockerfile-t vagy docker image-t, ha van, a
 
 "Most of the references’ results used relatively outdated version of QUIC, mostly carried  out while using HTTP/2 for the application layer, and in controlled environments. This  means that the results might not reflect accurately how QUIC would perform on realworld internet, and how it would be using the HTTP/3 which is specifically optimized  around QUIC. Further research and analyses using more up-to-date versions of these  protocols are needed, as well as their usage and performance in the upcoming standard  of mobile wireless network."
 
-### [7] összefoglalás (2022.07)
+### [7] összefoglalása (2022.07)
 
 Jó összefoglalást ad a QUIC Design choices-ról, ezen szempontokról: Congestion control, Flow control, Multiple Streams, Packet size, Client Validation of 0-RTT
 
