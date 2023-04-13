@@ -1,0 +1,28 @@
+Implemeation;Language;Supported Version;H3;QUIC V1;Client H3 test no error
+aioquic;Python;d-29 through v1;Yes;Yes
+Akamai QUIC;No Information;d-29;Yes
+AppleQUIC;C, Objective-C, and Swift;d-29 and v1;;Yes
+ATS;C++;d-29
+Chromium;C, C++;Q043, Q046, Q050, T050, T051, d-27, 29.;Yes
+F5;C;d-29 and 32
+Haskell quic;Haskell;d-29;Yes
+Kwik (H.09) / Flupke (H3);Java;d-29 through v1;Yes;Yes
+lsquic;C;Q043, Q046, Q050, d-27, 29, 34, and v1;Yes;Yes;Yes
+MsQuic;C;d-29 & v1;;Yes
+mvfst;C++;d-29;Yes;Yes;Yes
+Neqo;Rust;d-27 through v1;Yes;Yes
+ngtcp2;C;d-29, 30, 31, 32, and v1;;Yes
+nghttp3;C;d-32
+nginx;C;d-27 through 32
+nginx-cloudflare;C;d-27, 28, 29
+picoquic;C;d-27, 28, 29, 30, 31, 32 and v1;Yes;Yes;Yes
+PQUIC;C (and eBPF);d-29
+QUANT;C;d-33, 34, v1;;Yes
+quiche;Rust;d-27, 28, 29 and v1;Yes;Yes;Yes
+quicly;C;d-27
+Quinn;Rust;d-28;Yes;Yes
+quic-go;Go;d-29;Yes;Yes;Yes
+s2n-quic;Rust;v1;Yes;Yes
+XQUIC;C;v1 and d-29;Yes;Yes
+Node.js QUIC;C++ and JavaScript;d-25;Yes
+proxygen;C++;d-23;Yes
